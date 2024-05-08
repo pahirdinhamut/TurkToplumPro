@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="23px" viewBox="0 0 26 23" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group_581</title>
+    <defs>
+        <linearGradient x1="97.9953994%" y1="19.5051834%" x2="5.93579468%" y2="89.9823883%" id="linearGradient-1">
+            <stop stop-color="#050640" offset="0%"></stop>
+            <stop stop-color="#3BC3FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24x24-Fill-icon" transform="translate(-54.861691, -165.988036)">
+            <g id="Group_581" transform="translate(55.221691, 166.538036)">
+                <path d="M2.64,8.97 C3.47,4.85 3.83,2.97 5.08,1.81 C5.47361819,1.41950244 5.91752636,1.08320837 6.4,0.81 C7.86,0 9.76,0 13.56,0 C17.36,0 19.27,0 20.72,0.81 C21.2041066,1.08071841 21.6483367,1.41725641 22.04,1.81 C23.29,3.02 23.66,4.81 24.48,8.97 C25.48,13.82 26,16.58 25.06,18.68 C24.7490461,19.3775781 24.3116817,20.011587 23.77,20.55 C22.05,22.26 19.22,22.26 13.56,22.26 L0,22.26 L2.64,8.97 Z"
+                      id="Path_286" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <line x1="8.16" y1="15.01" x2="15.18" y2="15.01" id="Line_4" stroke="#DDF4FE" stroke-width="2"
+                      stroke-linecap="round"></line>
+                <line x1="8.61" y1="9.67" x2="18.55" y2="9.67" id="Line_5" stroke="#DDF4FE" stroke-width="2"
+                      stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

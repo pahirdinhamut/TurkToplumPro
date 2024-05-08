@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
+       stroke-linejoin="round">
+        <g id="24x24-Stroke-icon" transform="translate(-267.252096, -87.189301)" stroke="#130F26" stroke-width="1.5">
+            <g id="Group-5" transform="translate(268.252096, 88.409301)">
+                <line x1="11.64" y1="6.84" x2="6.85" y2="11.63" id="Path_315"></line>
+                <line x1="11.65" y1="11.64" x2="6.85" y2="6.84" id="Path_316"></line>
+                <path d="M0,9.25 C0,16.18 2.31,18.5 9.25,18.5 C16.19,18.5 18.5,16.18 18.5,9.25 C18.5,2.32 16.19,0 9.25,0 C2.31,0 0,2.31 0,9.25 Z"
+                      id="Path_317"></path>
+            </g>
+        </g>
+    </g>
+</svg>

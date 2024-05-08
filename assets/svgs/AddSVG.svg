@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24x24-Fill-icon" transform="translate(0.138309, -205.988036)">
+            <g id="Group-2" transform="translate(0.111691, 206.578036)">
+                <path d="M0,15.95 C0,3.95 4,-2.84217094e-14 16,-2.84217094e-14 C28,-2.84217094e-14 31.94,4 31.94,15.95 C31.94,27.9 27.94,31.95 16,31.95 C4.06,31.95 0,27.95 0,15.95"
+                      id="Path_134" fill="#2BBAF9"></path>
+                <line x1="16.26" y1="10.1" x2="16.26" y2="22.4" id="Line_2" stroke="#050640" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="22.42" y1="16.25" x2="10.1" y2="16.25" id="Line_3" stroke="#050640" stroke-width="2"
+                      stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

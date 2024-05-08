@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="17px" viewBox="0 0 21 17" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group_12</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
+       stroke-linejoin="round">
+        <g id="24x24-Stroke-icon" transform="translate(-135.252096, -89.189301)" stroke="#130F26" stroke-width="1.5">
+            <g id="Group_12" transform="translate(136.462096, 90.239301)">
+                <line x1="4.08" y1="-1.42108547e-14" x2="4.08" y2="12.62" id="Path_37"></line>
+                <path d="M0,4.1 C0,4.1 2.17,0 4.08,0 C5.99,0 8.15,4.1 8.15,4.1" id="Path_38"></path>
+                <line x1="14" y1="14.83" x2="14" y2="2.21" id="Path_39"></line>
+                <path d="M18.08,10.73 C18.08,10.73 15.91,14.83 14,14.83 C12.09,14.83 9.93,10.73 9.93,10.73"
+                      id="Path_40"></path>
+            </g>
+        </g>
+    </g>
+</svg>

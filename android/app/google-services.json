@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164572726504",
+    "firebase_url": "https://turktoplum-6ca59-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "turktoplum-6ca59",
+    "storage_bucket": "turktoplum-6ca59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164572726504:android:eb4cf1475249f73ec8b55d",
+        "android_client_info": {
+          "package_name": "com.turktoplum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164572726504-g905fof9i0jo0of6s7rus5cjbq8pgcjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoNePu6yzjhrgmPkrGdmbZIYMyK2vjBmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164572726504-g905fof9i0jo0of6s7rus5cjbq8pgcjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164572726504-eu0q2nrv4t6sngom5nm7fv34miotpmrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.turktoplum.tt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
